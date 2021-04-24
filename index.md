@@ -108,6 +108,17 @@ Most of cluster 6 includes areas closer to the Georgia Tech campus.
 
 For the preliminary Linear Regression model testing, the model was fitted on the number of crimes per neighborhood as opposed to our average "crime score" we outlined in the above section. This was just to get a feel for how crime may indeed model housing price trends. The initial testing showed a very weak negative correlation between the number of crimes reported per neighborhood and the average housing price per square foot of that neighborhood. The hypothesis presented by the team was that the more accounted crime reports would result in lower housing prices. While these initial results appear to lean towards that assertion, the testing was naïve and did not consider appropriate feature extraction methodology. Additionally, the metric of considering the number of crimes committed may be too broad, as more crimes may not necessarily translate to the level of danger awareness in a neighborhood. For example, an area that has fewer crimes, but most of those crimes are homicides or other forms of physical assault could be less desirable than an area that has more crimes but is comprised mostly of lesser offenses such as larceny.
 
+## Team Contributions
+
+We planned weekly meetings from the start. Each of the team members was present in all meetings and we recorded some for later references. We all came up with ideas to discuss and settled down on the current one. We delegated work in every meeting and all members did their part. Overall, it was an effective team collaboration, and we are happy to present our work. The individual contributions are listed below:
+
+* **Ivan**: Performed K-Means analysis on crime data, managed GitHub pages, report writing, contributions in proposal video. 
+* **Eunseo**: Data cleaning on the crime data, video editing for presentations, report writing. 
+* **Pierre**: Performed Linear Regression on the crime and housing data to observe trends, proposal (initial and midterm) report contributions. 
+* **Sakshi**: Idea conception and building. Report and presentation writing, Discussions with the team, Research for references 
+* **Michael**: I read and communicated research papers on what has been done with crime data. I also performed the data collection. Proofread and wrote the report. 
+
+
 ## References
 
 Atlanta Police Department "Crime Data Downloads." Atlanta Police Department,  2021, www.atlantapd.org/i-want-to/crime-data-downloads.
