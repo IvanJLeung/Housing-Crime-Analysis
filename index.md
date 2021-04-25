@@ -113,11 +113,10 @@ For the preliminary Linear Regression model testing, the model was fitted on the
 We planned weekly meetings from the start. Each of the team members was present in all meetings and we recorded some for later references. We all came up with ideas to discuss and settled down on the current one. We delegated work in every meeting and all members did their part. Overall, it was an effective team collaboration, and we are happy to present our work. The individual contributions are listed below:
 
 * **Ivan**: Performed K-Means analysis on crime data, managed GitHub pages, report writing, contributions in proposal video. 
-* **Eunseo**: Data cleaning on the crime data, video editing for presentations, report writing. 
-* **Pierre**: Performed Linear Regression on the crime and housing data to observe trends, proposal (initial and midterm) report contributions. 
-* **Sakshi**: Idea conception and building. Report and presentation writing, Discussions with the team, Research for references 
-* **Michael**: I read and communicated research papers on what has been done with crime data. I also performed the data collection. Proofread and wrote the report. 
-
+* **Eunseo**: Data cleaning on crime data, video editing for presentations, report writing. 
+* **Pierre**: Performed Linear Regression on crime and housing data to observe trends, proposal (initial and midterm) report contributions. 
+* **Sakshi**: Idea conception and building. Report and presentation writing, discussions with the team, research for references.
+* **Michael**: Read and communicated research papers on what has been done with crime data, performed the data collection, report writing and proofreading. 
 
 ## References
 
