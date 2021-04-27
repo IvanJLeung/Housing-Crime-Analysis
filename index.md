@@ -58,13 +58,31 @@ Each neighborhood will be given a score, which will be averaged over the number 
 
 The clusters for every year are similar and thus we only provide 2020 as a reference.
 
-#### Initial Linear Regression Results
+#### Linear Regression Results
 
-![Linear Regression Graph](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRGraph.png?raw=true)
+**Analysis on all crime scores:**
 
-**Coefficient of # of crimes reported feature**: ~ -0.132.
+![Linear Regression Graph All](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRGraph.png?raw=true)
+
+**Coefficient of # of crimes reported feature**: ~-0.132
 
 **MSE**: 10749.80
+
+**Analysis on crimes scored as 1:**
+
+![Linear Regression Graph Crimes 1](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRGraph.png?raw=true)
+
+**Coefficient of # of crimes reported feature**: ~0.0286
+
+**MSE**: 7625.54
+
+**Analysis on crimes scored as 2 or 3:**
+
+![Linear Regression Graph Crimes 2, 3](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRGraph.png?raw=true)
+
+**Coefficient of # of crimes reported feature**: ~-0.473
+
+**MSE**: 7383.36
 
 ## Discussion
 
