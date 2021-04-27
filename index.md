@@ -70,7 +70,7 @@ The clusters for every year are similar and thus we only provide 2020 as a refer
 
 **Analysis on crimes scored as 1:**
 
-![Linear Regression Graph Crimes 1](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRGraph.png?raw=true)
+![Linear Regression Graph Crimes 1](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRcrime1.png?raw=true)
 
 **Coefficient of # of crimes reported feature**: ~0.0286
 
@@ -78,7 +78,7 @@ The clusters for every year are similar and thus we only provide 2020 as a refer
 
 **Analysis on crimes scored as 2 or 3:**
 
-![Linear Regression Graph Crimes 2, 3](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRGraph.png?raw=true)
+![Linear Regression Graph Crimes 2, 3](https://github.com/IvanJLeung/Housing-Crime-Analysis/blob/main/images/LRcrime23.png?raw=true)
 
 **Coefficient of # of crimes reported feature**: ~-0.473
 
